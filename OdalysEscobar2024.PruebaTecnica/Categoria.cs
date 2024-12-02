@@ -16,6 +16,5 @@ namespace OdalysEscobar2024.PruebaTecnica
         [MaxLength(100)] 
         [Column("NombreCategoria")]
         public string Nombre { get; set; }
-        public Producto productos { get; set; }
     }
 }

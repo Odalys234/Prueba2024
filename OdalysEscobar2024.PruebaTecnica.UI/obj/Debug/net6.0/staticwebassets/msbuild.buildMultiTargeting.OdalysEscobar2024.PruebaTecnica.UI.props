@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\OdalysEscobar2024.PruebaTecnica.UI.props" />
+</Project>
