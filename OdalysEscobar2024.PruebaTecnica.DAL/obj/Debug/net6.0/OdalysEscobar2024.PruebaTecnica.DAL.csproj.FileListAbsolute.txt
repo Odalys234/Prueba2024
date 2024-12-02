@@ -1,0 +1,16 @@
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.deps.json
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.pdb
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.EN.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.EN.pdb
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.sourcelink.json
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEs.030816B3.Up2Date
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\refint\OdalysEscobar2024.PruebaTecnica.DAL.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.pdb
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.DAL\obj\Debug\net6.0\ref\OdalysEscobar2024.PruebaTecnica.DAL.dll

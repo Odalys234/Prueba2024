@@ -1,0 +1,42 @@
+﻿@model IEnumerable<OdalysEscobar2024.PruebaTecnica.EN.Categoria>
+
+@{
+    ViewData["Title"] = "Categorías";
+}
+
+<div class="container">
+    <h1>Lista de Categorías</h1>
+
+    <p>
+        <a asp-action="Create" class="btn btn-primary">Crear Nueva Categoría</a>
+    </p>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>@Html.DisplayNameFor(model => model.Nombre)</th>
+               
+                <th>Acciones</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>@Html.DisplayFor(modelItem => item.Nombre)</td>
+                    <td>
+                        <a href="@Url.Action("Edit", new { Id = item.Id })" class="btn btn-success">
+                            <i class="fas fa-edit"></i> Editar
+                        </a>
+                        <a href="@Url.Action("Details", new { Id = item.Id })" class="btn btn-info">
+                            <i class="fas fa-eye"></i> Detalles
+                        </a>
+                        <a href="@Url.Action("Delete", new { Id = item.Id })" class="btn btn-danger">
+                            <i class="fas fa-trash-alt"></i> Eliminar
+                        </a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
