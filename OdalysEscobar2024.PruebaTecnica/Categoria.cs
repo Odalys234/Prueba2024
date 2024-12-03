@@ -14,7 +14,7 @@ namespace OdalysEscobar2024.PruebaTecnica
 
         [Required] 
         [MaxLength(100)] 
-        [Column("NombreCategoria")]
+        [Column("Nombre")]
         public string Nombre { get; set; }
     }
 }

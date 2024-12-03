@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+59c10a2dca9c35cd7572690fcd1a19f81b4aa3b7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5ea6a00d580eb899c6ff9f499cad603d8a9a4ddd")]
 [assembly: System.Reflection.AssemblyProductAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

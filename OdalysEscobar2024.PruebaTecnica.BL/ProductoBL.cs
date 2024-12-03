@@ -7,7 +7,7 @@ namespace OdalysEscobar2024.PruebaTecnica.BL
 {
     public class ProductosBL
     {
-
+/*
         public static async Task<List<Producto>> GetAll()
         {
             return await ProductosDAL.GetAll();
@@ -35,6 +35,6 @@ namespace OdalysEscobar2024.PruebaTecnica.BL
         public static async Task<int> Delete(int id)
         {
             return await ProductosDAL.Delete(id);
-        }
+        }*/
     }
 }

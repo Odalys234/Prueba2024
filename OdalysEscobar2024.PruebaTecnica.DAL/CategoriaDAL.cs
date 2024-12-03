@@ -7,65 +7,53 @@ namespace OdalysEscobar2024.PruebaTecnica.DAL
 {
     public class CategoriaDAL
     {
-        public static async Task<List<Categoria>> GetAll()
+        private readonly ComunDB _dbContext;
+
+        public CategoriaDAL(ComunDB dbContext)
         {
-            using (var dbContext = new ComunDB())
-            {
-                return await dbContext.Categorias.ToListAsync();
-            }
+            _dbContext = dbContext;
         }
 
-    
-        public static async Task<Categoria> GetById(int id)
+        public async Task<List<Categoria>> GetAll()
         {
-            using (var dbContext = new ComunDB())
-            {
-                return await dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == id);
-            }
+            return await _dbContext.Categorias.ToListAsync();
         }
 
-       
-        public static async Task<int> Create(Categoria categoria)
+        public async Task<Categoria> GetById(int id)
         {
-            using (var dbContext = new ComunDB())
-            {
-                dbContext.Categorias.Add(categoria);
-                return await dbContext.SaveChangesAsync();
-            }
+            return await _dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == id);
         }
 
-
-        public static async Task<int> Update(Categoria categoria)
+        public async Task<int> Create(Categoria categoria)
         {
-            using (var dbContext = new ComunDB())
-            {
-                var existingCategoria = await dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == categoria.Id);
-
-                if (existingCategoria != null)
-                {
-                    existingCategoria.Nombre = categoria.Nombre;
-
-                    return await dbContext.SaveChangesAsync();
-                }
-
-                return 0; 
-            }
+            _dbContext.Categorias.Add(categoria);
+            return await _dbContext.SaveChangesAsync();
         }
 
-      
-        public static async Task<int> Delete(int id)
+        public async Task<int> Update(Categoria categoria)
         {
-            using (var dbContext = new ComunDB())
-            {
-                var categoria = await dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == id);
-                if (categoria != null)
-                {
-                    dbContext.Categorias.Remove(categoria);
-                    return await dbContext.SaveChangesAsync();
-                }
+            var existingCategoria = await _dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == categoria.Id);
 
-                return 0; 
+            if (existingCategoria != null)
+            {
+                existingCategoria.Nombre = categoria.Nombre;
+
+                return await _dbContext.SaveChangesAsync();
             }
+
+            return 0;
+        }
+
+        public async Task<int> Delete(int id)
+        {
+            var categoria = await _dbContext.Categorias.FirstOrDefaultAsync(c => c.Id == id);
+            if (categoria != null)
+            {
+                _dbContext.Categorias.Remove(categoria);
+                return await _dbContext.SaveChangesAsync();
+            }
+
+            return 0;
         }
     }
 }

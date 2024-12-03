@@ -1,12 +1,3 @@
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.csproj.AssemblyReference.cache
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.AssemblyInfoInputs.cache
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.AssemblyInfo.cs
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.csproj.CoreCompileInputs.cache
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.MvcApplicationPartsAssemblyInfo.cache
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.RazorAssemblyInfo.cache
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.RazorAssemblyInfo.cs
-C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.sourcelink.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\appsettings.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.staticwebassets.runtime.json
@@ -234,6 +225,15 @@ C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar202
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.BL.pdb
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.DAL.pdb
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.EN.pdb
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.csproj.AssemblyReference.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.AssemblyInfoInputs.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.AssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.csproj.CoreCompileInputs.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.RazorAssemblyInfo.cache
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.RazorAssemblyInfo.cs
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.sourcelink.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\staticwebassets.build.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\staticwebassets.development.json
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\staticwebassets\msbuild.OdalysEscobar2024.PruebaTecnica.UI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -250,3 +250,5 @@ C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar202
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.pdb
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\OdalysEscobar2024.PruebaTecnica.UI.genruntimeconfig.cache
 C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\obj\Debug\net6.0\ref\OdalysEscobar2024.PruebaTecnica.UI.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\MINEDUCYT\source\repos\OdalysEscobar2024.PruebaTecnica\OdalysEscobar2024.PruebaTecnica.UI\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll

@@ -3,36 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|solutionrelative:odalysescobar2024.pruebatecnica\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.en.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|solutionrelative:odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.en.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.bl\\odalysescobar2024.pruebatecnica.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.bl\\odalysescobar2024.pruebatecnica.bl.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.dal\\odalysescobar2024.pruebatecnica.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\odalysescobar2024.pruebatecnica.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -47,24 +35,44 @@
       "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\productodal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.dal\\comundb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\comundb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\categoriadal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.bl\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.bl\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.dal\\comundb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ED080367-82F3-4B4C-AFF7-C1D2623796B9}|OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.dal\\comundb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|solutionrelative:odalysescobar2024.pruebatecnica\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.ui\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D1277736-8593-47A0-A387-73B359BF97EB}|OdalysEscobar2024.PruebaTecnica.UI\\OdalysEscobar2024.PruebaTecnica.UI.csproj|solutionrelative:odalysescobar2024.pruebatecnica.ui\\views\\categoria\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{2CCBAF62-22AC-4B16-B383-A80B43A8DD5F}|OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj|solutionrelative:odalysescobar2024.pruebatecnica\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.bl\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|solutionrelative:odalysescobar2024.pruebatecnica.bl\\categoriabl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C727A100-B2E3-4319-9A92-7A96261F3AB8}|OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj|c:\\users\\mineducyt\\source\\repos\\odalysescobar2024.pruebatecnica\\odalysescobar2024.pruebatecnica.bl\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -86,19 +94,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T23:19:17.312Z",
+              "DocumentIndex": 3,
+              "Title": "OdalysEscobar2024.PruebaTecnica.DAL",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\OdalysEscobar2024.PruebaTecnica.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T01:14:55.802Z",
               "EditorCaption": ""
             },
             {
@@ -115,33 +123,163 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T22:23:40.286Z",
+              "DocumentIndex": 2,
+              "Title": "OdalysEscobar2024.PruebaTecnica.BL",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj*",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\OdalysEscobar2024.PruebaTecnica.BL.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-03T01:15:09.873Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T22:21:21.063Z",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T23:02:56.362Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAAGIAAAAAAAAAAAAqwGsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:14:19.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OdalysEscobar2024.PruebaTecnica.EN.csproj",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj*",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-02T23:16:28.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductoBL.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:09:20.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductoDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
+              "ViewState": "AQIAADsAAAAAAAAAAAAIwEwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:03:13.133Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaDAL.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:02:53.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T22:25:53.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaBL.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T22:09:03.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-02T23:02:18.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ComunDB.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAADwvxEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:41:03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:52:00.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
               "Title": "Details.cshtml",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Details.cshtml",
               "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Details.cshtml",
@@ -154,159 +292,59 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "CategoriaDAL.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\CategoriaDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:02:53.28Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Categoria.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\Categoria.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:52:00.207Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "OdalysEscobar2024.PruebaTecnica.EN",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.EN.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-02T23:16:28.508Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Delete.cshtml",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Delete.cshtml",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Create.cshtml",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-12-02T22:25:53.738Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "CategoriaController.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Controllers\\CategoriaController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:14:19.728Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-12-02T23:02:18.235Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Program.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAABsAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T23:02:56.362Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ProductoBL.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\ProductoBL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:09:20.427Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "CategoriaBL.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\CategoriaBL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:09:03.122Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProductoDAL.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\ProductoDAL.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAxAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T22:03:13.133Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Producto.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\Producto.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Producto.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\Producto.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAgwAgAAAAOAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:54:36.614Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ComunDB.cs",
-              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
-              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
-              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
-              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\ComunDB.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA2AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:41:03Z",
+              "WhenOpened": "2024-12-02T22:21:21.063Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 16,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Edit.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T22:23:40.286Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.UI\\Views\\Categoria\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-02T23:19:17.312Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Producto.cs",
+              "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\Producto.cs",
+              "ToolTip": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Producto.cs",
+              "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\Producto.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:54:36.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.BL\\Class1.cs",
               "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.BL\\Class1.cs",
@@ -314,11 +352,12 @@
               "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.BL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:32:58.62Z"
+              "WhenOpened": "2024-12-02T21:32:58.62Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica.DAL\\Class1.cs",
               "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica.DAL\\Class1.cs",
@@ -326,11 +365,12 @@
               "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica.DAL\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:32:36.99Z"
+              "WhenOpened": "2024-12-02T21:32:36.99Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "Class1.cs",
               "DocumentMoniker": "C:\\Users\\MINEDUCYT\\source\\repos\\OdalysEscobar2024.PruebaTecnica\\OdalysEscobar2024.PruebaTecnica\\Class1.cs",
               "RelativeDocumentMoniker": "OdalysEscobar2024.PruebaTecnica\\Class1.cs",
@@ -338,7 +378,8 @@
               "RelativeToolTip": "OdalysEscobar2024.PruebaTecnica\\Class1.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-02T21:30:58.378Z"
+              "WhenOpened": "2024-12-02T21:30:58.378Z",
+              "EditorCaption": ""
             }
           ]
         }

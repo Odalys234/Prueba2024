@@ -7,34 +7,36 @@ namespace OdalysEscobar2024.PruebaTecnica.BL
 {
     public class CategoriasBL
     {
-        
-        public static async Task<List<Categoria>> GetAll()
+        private readonly CategoriaDAL _categoriaDAL;
+
+        public CategoriasBL(CategoriaDAL categoriaDAL)
         {
-            return await CategoriaDAL.GetAll();
+            _categoriaDAL = categoriaDAL;
         }
 
-      
-        public static async Task<Categoria> GetById(int id)
+        public async Task<List<Categoria>> GetAll()
         {
-            return await CategoriaDAL.GetById(id);
+            return await _categoriaDAL.GetAll();
         }
 
-       
-        public static async Task<int> Create(Categoria categoria)
+        public async Task<Categoria> GetById(int id)
         {
-            return await CategoriaDAL.Create(categoria);
+            return await _categoriaDAL.GetById(id);
         }
 
-        
-        public static async Task<int> Update(Categoria categoria)
+        public async Task<int> Create(Categoria categoria)
         {
-            return await CategoriaDAL.Update(categoria);
+            return await _categoriaDAL.Create(categoria);
         }
 
-      
-        public static async Task<int> Delete(int id)
+        public async Task<int> Update(Categoria categoria)
         {
-            return await CategoriaDAL.Delete(id);
+            return await _categoriaDAL.Update(categoria);
+        }
+
+        public async Task<int> Delete(int id)
+        {
+            return await _categoriaDAL.Delete(id);
         }
     }
 }

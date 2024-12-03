@@ -1,5 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using OdalysEscobar2024.PruebaTecnica.BL; 
+using OdalysEscobar2024.PruebaTecnica.BL;
 using OdalysEscobar2024.PruebaTecnica.EN;
 using System.Threading.Tasks;
 
@@ -7,17 +7,25 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
 {
     public class CategoriaController : Controller
     {
+        private readonly CategoriasBL _categoriasBL;
+
+       
+        public CategoriaController(CategoriasBL categoriasBL)
+        {
+            _categoriasBL = categoriasBL;
+        }
+
         // GET: CategoriaController
         public async Task<IActionResult> Index()
         {
-            var categorias = await CategoriasBL.GetAll();
+            var categorias = await _categoriasBL.GetAll();
             return View(categorias);
         }
 
         // GET: CategoriaController/Details/5
         public async Task<IActionResult> Details(int id)
         {
-            var categoria = await CategoriasBL.GetById(id);
+            var categoria = await _categoriasBL.GetById(id);
             if (categoria == null)
             {
                 return NotFound();
@@ -38,7 +46,7 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
         {
             try
             {
-                await CategoriasBL.Create(categoria);
+                await _categoriasBL.Create(categoria);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -50,7 +58,7 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
         // GET: CategoriaController/Edit/5
         public async Task<IActionResult> Edit(int id)
         {
-            var categoria = await CategoriasBL.GetById(id);
+            var categoria = await _categoriasBL.GetById(id);
             if (categoria == null)
             {
                 return NotFound();
@@ -65,7 +73,7 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
         {
             try
             {
-                var categoriaToUpdate = await CategoriasBL.GetById(id);
+                var categoriaToUpdate = await _categoriasBL.GetById(id);
                 if (categoriaToUpdate == null)
                 {
                     return NotFound();
@@ -74,7 +82,7 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
                 // Actualizar los datos de la categoría
                 categoriaToUpdate.Nombre = categoria.Nombre;
 
-                await CategoriasBL.Update(categoriaToUpdate);
+                await _categoriasBL.Update(categoriaToUpdate);
                 return RedirectToAction(nameof(Index));
             }
             catch
@@ -86,7 +94,7 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
         // GET: CategoriaController/Delete/5
         public async Task<IActionResult> Delete(int id)
         {
-            var categoria = await CategoriasBL.GetById(id);
+            var categoria = await _categoriasBL.GetById(id);
             if (categoria == null)
             {
                 return NotFound();
@@ -97,11 +105,11 @@ namespace OdalysEscobar2024.PruebaTecnica.UI.Controllers
         // POST: CategoriaController/Delete/5
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Delete(Categoria categoria)
+        public async Task<IActionResult> Deletet(int id)
         {
             try
             {
-                await CategoriasBL.Delete(categoria.Id);
+                await _categoriasBL.Delete(id);
                 return RedirectToAction(nameof(Index));
             }
             catch
