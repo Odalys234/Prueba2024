@@ -1,5 +1,5 @@
-﻿using OdalysEscobar2024.PruebaTecnica.EN; 
-using OdalysEscobar2024.PruebaTecnica.DAL; 
+﻿using OdalysEscobar2024.PruebaTecnica.DAL;
+using OdalysEscobar2024.PruebaTecnica.EN;
 using System.Collections.Generic;
 using System.Threading.Tasks;
 
@@ -7,34 +7,36 @@ namespace OdalysEscobar2024.PruebaTecnica.BL
 {
     public class ProductosBL
     {
-/*
-        public static async Task<List<Producto>> GetAll()
+        private readonly ProductoDAL _productoDAL;
+
+        public ProductosBL(ProductoDAL productoDAL)
         {
-            return await ProductosDAL.GetAll();
+            _productoDAL = productoDAL;
         }
 
-        
-        public static async Task<Producto> GetById(int id)
+        public async Task<List<Producto>> GetAll()
         {
-            return await ProductosDAL.GetById(id);
+            return await _productoDAL.GetAll();
         }
 
-       
-        public static async Task<int> Create(Producto producto)
+        public async Task<Producto> GetById(int id)
         {
-            return await ProductosDAL.Create(producto);
+            return await _productoDAL.GetById(id);
         }
 
-        
-        public static async Task<int> Update(Producto producto)
+        public async Task<int> Create(Producto producto)
         {
-            return await ProductosDAL.Update(producto);
+            return await _productoDAL.Create(producto);
         }
 
-   
-        public static async Task<int> Delete(int id)
+        public async Task<int> Update(Producto producto)
         {
-            return await ProductosDAL.Delete(id);
-        }*/
+            return await _productoDAL.Update(producto);
+        }
+
+        public async Task<int> Delete(int id)
+        {
+            return await _productoDAL.Delete(id);
+        }
     }
 }

@@ -14,6 +14,8 @@ builder.Services.AddDbContext<ComunDB>(options =>
 
 builder.Services.AddScoped<CategoriaDAL>();
 builder.Services.AddScoped<CategoriasBL>();
+builder.Services.AddScoped<ProductoDAL>();
+builder.Services.AddScoped<ProductosBL>();
 
 
 builder.Services.AddControllersWithViews();
