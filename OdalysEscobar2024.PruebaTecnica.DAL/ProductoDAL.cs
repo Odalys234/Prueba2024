@@ -14,47 +14,46 @@ namespace OdalysEscobar2024.PruebaTecnica.DAL
             _dbContext = dbContext;
         }
 
-        public async Task<List<Producto>> GetAll()
+        
+        public async Task<int> CreateProductoAsync(Producto producto)
         {
-            return await _dbContext.Productos
-                .Include(p => p.Categorias) 
-                .ToListAsync();
+            _dbContext.Productos.Add(producto);
+            return await _dbContext.SaveChangesAsync();
         }
 
-        public async Task<Producto> GetById(int id)
+        
+        public async Task<int> EditProductoAsync(Producto producto)
+        {
+            var existingProducto = await _dbContext.Productos.FirstOrDefaultAsync(p => p.Id == producto.Id);
+            if (existingProducto != null)
+            {
+                existingProducto.Nombre = producto.Nombre;
+                existingProducto.Precio = producto.Precio;
+                existingProducto.IdCategoria = producto.IdCategoria;
+
+                return await _dbContext.SaveChangesAsync();
+            }
+            return 0;
+        }
+
+        
+        public async Task<Producto> GetByIdAsync(int id)
         {
             return await _dbContext.Productos
                 .Include(p => p.Categorias) 
                 .FirstOrDefaultAsync(p => p.Id == id);
         }
 
-      public async Task<int> Create(Producto producto)
-{
-    var categoria = await _dbContext.Categorias.FindAsync(producto.IdCategoria);
-    if (categoria == null) throw new Exception("La categoría no existe.");
+        
+        public async Task<List<Producto>> GetAllAsync()
+        {
+            return await _dbContext.Productos
+                .Include(p => p.Categorias) 
+                .ToListAsync();
+        }
 
-    _dbContext.Productos.Add(producto);
-    return await _dbContext.SaveChangesAsync();
-}
-
-public async Task<int> Update(Producto producto)
-{
-    var existingProducto = await _dbContext.Productos
-        .FirstOrDefaultAsync(p => p.Id == producto.Id);
-
-    if (existingProducto == null) throw new Exception("El producto no existe.");
-
-    existingProducto.Nombre = producto.Nombre;
-    existingProducto.Precio = producto.Precio;
-
-    var categoria = await _dbContext.Categorias.FindAsync(producto.IdCategoria);
-    if (categoria == null) throw new Exception("La categoría no existe.");
-    
-    existingProducto.IdCategoria = producto.IdCategoria;
-
-    return await _dbContext.SaveChangesAsync();
-}
-        public async Task<int> Delete(int id)
+        
+        public async Task<int> DeleteAsync(int id)
         {
             var producto = await _dbContext.Productos.FirstOrDefaultAsync(p => p.Id == id);
             if (producto != null)
@@ -62,7 +61,6 @@ public async Task<int> Update(Producto producto)
                 _dbContext.Productos.Remove(producto);
                 return await _dbContext.SaveChangesAsync();
             }
-
             return 0;
         }
     }

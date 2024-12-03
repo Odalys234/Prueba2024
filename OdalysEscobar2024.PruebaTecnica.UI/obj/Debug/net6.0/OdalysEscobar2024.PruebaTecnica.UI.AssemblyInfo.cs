@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8a5c2be5b1cc8450008d5643c4b2780481198be0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+91060a977b77ccb5429d690bd50b16a0a6d7550d")]
 [assembly: System.Reflection.AssemblyProductAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("OdalysEscobar2024.PruebaTecnica.UI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
